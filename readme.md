@@ -1,3 +1,6 @@
+This frame mounts the screen upside down to allow the brightness adjustment knob to be accessed.  
+You will need to rotate the display and touchscreen in your Raspberry Pi config.
+
 Use either one of the following frames:
 
   [45 Degree Mount by CannedBass](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/CannedBass/PITFT50_45_degree_mount/STL/PITFT50_45_degree_mount.stl)     
